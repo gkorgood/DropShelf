@@ -3,4 +3,5 @@ hello-world.
 
 first repository
 
-getting haang of Github
+Just getting the hang of Github
+This stuff is confusing.
